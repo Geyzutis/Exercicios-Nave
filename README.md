@@ -9,7 +9,7 @@ Exercicios do teste da nave, este repositório irá constar de todos os arquivos
 ## Compilando os arquivos
 
 Assumindo que você tenha o [Node.Js](https://nodejs.org) instalado, siga esses passos:
-Vá para a pasta raiz e instale todas as dependencias necessárias.
+Vá para a pasta raiz e instale a dependencia necessária.
 
 - ### `npm i`
 
