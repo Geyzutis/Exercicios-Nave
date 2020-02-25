@@ -1,0 +1,23 @@
+{
+  "name": "exercicios-nave",
+  "version": "1.0.0",
+  "description": "Exercicios do teste da nave, este repositório irá constar de todos os arquivos com os códigos conforme pedido nos enunciados enviado por email.  ## Dependências * _axios: ^0.19.2_",
+  "main": "EX1.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geyzutis/Exercicios-Nave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geyzutis/Exercicios-Nave/issues"
+  },
+  "homepage": "https://github.com/Geyzutis/Exercicios-Nave#readme"
+}
