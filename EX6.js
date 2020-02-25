@@ -1,3 +1,5 @@
+const axios = require('axios');
+
 axios.get('https://viacep.com.br/ws/96030580/json/')
     .then(function(response){
         console.log('Endereço: '+response.data.logradouro 
