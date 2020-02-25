@@ -4,5 +4,9 @@
 * _axios: ^0.19.2_
 
 ## Compilando os arquivos
-    Assumindo que você tenha o [Node.js](https://nodejs.org/en/) instalado, 
- 
+    Assumindo que você tenha o [Node.js](https://nodejs.org/en/) instalado, siga esses passos:
+    Vá para a pasta raiz e instale todas as dependencias necessárias.
+    - ### `npm i`
+
+    Para executar os exercicios vá no terminal e digite node nomedoarquivo.js.
+
