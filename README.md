@@ -1,12 +1,16 @@
 # Exercicios Nave
-    Exercicios do teste da nave, este repositório irá constar de todos os arquivos com os códigos conforme pedido nos enunciados enviado por email. 
+
+    Exercicios do teste da nave, este repositório irá constar de todos os arquivos com os códigos conforme pedido nos enunciados enviado por email.
+
 ## Dependências
-* _axios: ^0.19.2_
+
+- _axios: ^0.19.2_
 
 ## Compilando os arquivos
-    Assumindo que você tenha o [Node.js](https://nodejs.org/en/) instalado, siga esses passos:
+
+    Assumindo que você tenha o .[Node.js].(https://nodejs.org/en/) instalado, siga esses passos:
     Vá para a pasta raiz e instale todas as dependencias necessárias.
-    - ### `npm i`
 
-    Para executar os exercicios vá no terminal e digite node nomedoarquivo.js.
+- ### `npm i`
 
+  Para executar os exercicios vá no terminal e digite node nomedoarquivo.js.
